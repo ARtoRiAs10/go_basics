@@ -15,17 +15,6 @@ This repository is created to document and track my progress as I learn **Go**, 
 - Practice error handling and logging
 - Develop simple Go applications
 
-## 📂 Repository Structure
-```
-📁 go-basics-practice/
-│── 📄 README.md        # Project documentation
-│── 📂 basics/          # Fundamental concepts
-│── 📂 functions/       # Function implementations
-│── 📂 data-structures/ # Arrays, slices, maps, structs
-│── 📂 concurrency/     # Goroutines & channels
-│── 📂 projects/        # Small Go applications
-│── 📂 exercises/       # Hands-on coding exercises
-```
 
 ## ⚡ Getting Started
 ### Prerequisites
